@@ -19,13 +19,16 @@ cd desktopAutomation_Robot
 
 #### Run all tests:
 
+```
 java -Dtest=all -jar addresser.jar
+```
 
 #### Run each test separate:
 
+```
 java -Dtest=addEditDelete -jar addresser.jar
 
 java -Dtest=add100 -jar addresser.jar
-
+```
 
 
