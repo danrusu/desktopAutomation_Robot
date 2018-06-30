@@ -11,9 +11,11 @@ Eclipse project for simple automated test tool for desktop applications using ja
 
 ### Usage: 
 
-`git clone https://github.com/danrusu/desktopAutomation_Robot.git
+```
+git clone https://github.com/danrusu/desktopAutomation_Robot.git
 
-cd desktopAutomation_Robot`
+cd desktopAutomation_Robot
+```
 
 #### Run all tests:
 
