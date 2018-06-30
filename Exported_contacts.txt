@@ -1,0 +1,2 @@
+Jane Doe;Cupertino;Jane.Doe@hotmail.com;+32654374528;Works for Apple
+John Doe;Redmond;John.Doe@hotmail.com;+34657345261;Works for Microsoft
