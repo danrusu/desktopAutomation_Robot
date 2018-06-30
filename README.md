@@ -1,6 +1,6 @@
 # desktopAutomation_Robot
 
-### Eclipse project for simple automated test tool for desktop applications using java.awt.Robot.
+Eclipse project for simple automated test tool for desktop applications using java.awt.Robot.
 
 #### The addresser.jar tool can run functional tests via JUnit framework for resources/Addresser.exe application:
 
@@ -9,17 +9,17 @@
 2. Test AddresserAdd100ContactsTest - runs one test case - Add 100 distinct contacts
 
 
-#### Usage: 
+### Usage: 
 
-git clone https://github.com/danrusu/desktopAutomation_Robot.git
+`git clone https://github.com/danrusu/desktopAutomation_Robot.git
 
-cd desktopAutomation_Robot
+cd desktopAutomation_Robot`
 
-Run all tests:
+#### Run all tests:
 
 java -Dtest=all -jar addresser.jar
 
-Run each test separate:
+#### Run each test separate:
 
 java -Dtest=addEditDelete -jar addresser.jar
 
