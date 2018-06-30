@@ -11,9 +11,9 @@
 
 #### Usage: 
 
-git clone
+git clone https://github.com/danrusu/desktopAutomation_Robot.git
 
-cd addresser
+cd desktopAutomation_Robot
 
 Run all tests:
 
