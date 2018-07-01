@@ -1,6 +1,8 @@
 # desktopAutomation_Robot
 
-Eclipse project for automation of desktop applications using java.awt.Robot.
+Eclipse project for automation of desktop applications using java.awt.Robot. 
+
+Requires Java 1.8 or above.
 
 #### The addresser.jar tool can run functional tests via JUnit5 framework for the resources/Addresser.exe application:
 
